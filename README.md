@@ -2,7 +2,7 @@
 
 This repository offers prompts tailored for Large Language Models, based on the criteria provided by the British Council. Use these to enhance your IELTS preparation or practice. Enjoy your journey to mastering the exam!
 
-![Logo](Logo.jpg)
+![Logo](Logo.jpeg)
 
 
-[IELTS Writing Task1 Evaluate Tool](IELTS Writing Task1 Prompt)
+[IELTS Writing Task1 Evaluate Tool](IELTS Writing Task1 Prompt.md)
